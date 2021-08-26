@@ -1,5 +1,7 @@
 ## Chart World
-A Webapp to show data in chart form.
+Webapp to show data in chart form.
+(in-progress)
+
 
 ## Project Screen Shot(s)
 <img src="./src/images/bar-chart.png" />
@@ -26,4 +28,3 @@ To Visit App:
 
 `localhost:3000`  
 
-# Chart-World
