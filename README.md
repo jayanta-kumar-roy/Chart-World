@@ -6,9 +6,8 @@ Webapp to show data in chart form.
 ## Project Screen Shot(s)
 <img src="./src/images/bar-chart.png" />
 <img src="./src/images/bubble-chart.png" />
-## Installation and Setup Instructions
 
-#### Example:  
+## Installation and Setup Instructions
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
 
